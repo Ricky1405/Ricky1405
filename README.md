@@ -34,13 +34,16 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,linux,docker,vscode" />
 </p>
 
-### ⚡ AI/ML Stack
-- PyTorch, TensorFlow, Scikit-learn  
-- Hugging Face Transformers  
-- LangChain, LlamaIndex  
+## 🛠️ Tech Stack
+
+⚡ AI/ML: PyTorch, TensorFlow, Scikit-learn, Hugging Face, LLMs, RAG  
+💻 Backend: Python (FastAPI/Flask), Java, REST APIs  
+🗄️ Data: MySQL, MongoDB, Pandas, NumPy  
+⚙️ Tools: Git, Docker, Linux, VS Code  
+☁️ Basics: AWS (EC2, S3), Vector DBs (FAISS, ChromaDB) 
   
 
 ---
@@ -56,12 +59,12 @@
 </p>
 
 ---
-
+<!--
 ## 🧩 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricky1405&theme=tokyo-night&hide_border=true"/>
 </p>
-
+-->
 ---
 
 ## 🔬 Featured Projects
