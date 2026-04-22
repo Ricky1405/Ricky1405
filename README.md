@@ -5,7 +5,7 @@
 
 <!-- 👋 Header -->
 <h1 align="center">Hi 👋, I'm Vikram</h1>
-<h3 align="center">AI/ML Engineer | RAG Systems | LLMs | Deep Learning</h3>
+<h3 align="center">Data Scientist | Machine Learning, Statistics & Data Analysis | Turning data into actionable insights</h3>
 
 <!-- ⚡ Typing Animation -->
 <p align="center">
