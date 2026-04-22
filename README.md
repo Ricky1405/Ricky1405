@@ -32,13 +32,11 @@
 
 ---
 
-## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,linux,docker,vscode" />
 </p>
 
 ## 🛠️ Tech Stack
-
 ⚡ AI/ML: PyTorch, TensorFlow, Scikit-learn, Hugging Face, LLMs, RAG  
 💻 Backend: Python (FastAPI/Flask), Java, REST APIs  
 🗄️ Data: MySQL, MongoDB, Pandas, NumPy  
@@ -65,7 +63,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricky1405&theme=tokyo-night&hide_border=true"/>
 </p>
 -->
----
 
 ## 🔬 Featured Projects
 ### 🧠 RAG-based QA System
@@ -81,7 +78,7 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/u-vikram-270a44258/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -90,12 +87,11 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ricky1405/Ricky1405/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+<p align="center"><i>Tracking my coding journey 🐍</i></p>
 
+<br/>
 ⭐ *"Building intelligent systems that solve real-world problems."*
