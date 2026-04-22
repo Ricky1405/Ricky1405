@@ -92,6 +92,5 @@
 </p>
 
 <p align="center"><i>Tracking my coding journey 🐍</i></p>
-
 <br/>
-⭐ *"Building intelligent systems that solve real-world problems."*
+
