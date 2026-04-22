@@ -41,7 +41,7 @@
 - PyTorch, TensorFlow, Scikit-learn  
 - Hugging Face Transformers  
 - LangChain, LlamaIndex  
-- FAISS, Pinecone, ChromaDB  
+  
 
 ---
 
@@ -64,29 +64,15 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ricky1405&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 🔬 Featured Projects
 ### 🧠 RAG-based QA System
 - Retrieval-Augmented Generation pipeline using **LLMs + vector DB**
 - Context-aware responses with semantic search  
-
-### 🤖 LLM Chatbot
-- Chatbot with **memory, prompt engineering, and context handling**  
-
-### 📊 ML Pipeline System
-- End-to-end ML workflow (**data → training → prediction**)  
-
 ---
 
 ## 📚 Currently Exploring
 - 🔥 LLM Fine-tuning (LoRA, PEFT)  
-- 🧠 Multi-modal AI systems  
+- 🧠 Multi-modal AI systems , AI Agents
 - ⚙️ MLOps & scalable deployment  
 
 ---
